@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib import pyplot
 import seaborn as sns
 from kmodes.kmodes import KModes
+from sklearn.model_selection import train_test_split
 from sklearn.feature_selection import SelectKBest
 from sklearn.feature_selection import chi2
 
