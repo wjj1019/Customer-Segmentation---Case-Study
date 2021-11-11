@@ -1,3 +1,2 @@
 # Customer-Segmentation---Case-Study
-
-# Data frome Harvard Dataverse 
+Data frome Harvard Dataverse 
