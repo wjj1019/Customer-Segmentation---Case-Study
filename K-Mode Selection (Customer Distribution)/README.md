@@ -1,1 +1,2 @@
-# K-Mode Algorithm Overview
+K-Mode Implementation Logic
+--------------------------
