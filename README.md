@@ -8,7 +8,7 @@ Customer Segmentation - Clustering
  * To submit bug reports and feature suggestions, or track changes:
    https://www.drupal.org/project/issues/admin_menu
    
-![ScreenShot]()
+![ScreenShot](https://github.com/wjj1019/Customer-Segmentation---Case-Study/blob/main/Data/Customer-segmentation.png)
 Data (Harvard Dataverse)
 ------------
 
