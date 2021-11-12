@@ -15,7 +15,7 @@ The dataset consists of 52 Features which corresponds to the answers to the surv
 
 The survey was designed and implemented in SurveyMonkey, an online survey platform, and respondents were recruited and paid through Amazon Mechanical Turk (MTurk). Respondents were recruited from among car owners who have completed at least 100 tasks on MTurk with a minimum 95% acceptance rate. (2019-07-09)
 
-[Descriptions to Each Features]asdasd
+[Descriptions to Each Features](https://github.com/wjj1019/Customer-Segmentation---Case-Study/blob/main/Data/Feature%20Explanation.xlsx)
    
 Machine Learning Used
 ------------
