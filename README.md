@@ -22,7 +22,7 @@ The survey was designed and implemented in SurveyMonkey, an online survey platfo
    
 Machine Learning Methods
 ------------
-* K-Mode Clustering [Explanation](https://github.com/wjj1019/Customer-Segmentation---Case-Study/blob/main/K-Mode%20Selection%20(Customer%20Distribution)/Algorithm%20Explanation%20Doc.pdf)
+* K-Mode Clustering [Algorithm Explained](https://github.com/wjj1019/Customer-Segmentation---Case-Study/blob/main/K-Mode%20Selection%20(Customer%20Distribution)/Algorithm%20Explanation%20Doc.pdf)
 * Multinomial Naive Bayes 
 
 Statistical Methods
