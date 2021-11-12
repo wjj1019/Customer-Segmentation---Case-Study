@@ -33,6 +33,6 @@ Statistical Methods
 Implementation Steps
 ------------
 1. K-Mode Clustering
-2. Clustering Distribution Detection
+2. Clustering Tracking 
 3. Naive Bayes Implementation
 4. 
