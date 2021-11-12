@@ -19,7 +19,7 @@ def select_features(X, y):
 
     return fs
 
-# Selecting best K for the K-Mode algorithm, Elbow method plot allow visualization of best k
+# Feature Selection Score Graph Visualization
 def selectK (features, predictor):
     X = features
     y = predictor
@@ -30,7 +30,7 @@ def selectK (features, predictor):
     for i in range(len(fs.scores_)):
         print('Feature %d: %f' % (i, fs.scores_[i]))
         
-    #Plot Elbow Curve
+    #Plot Feature Selection Score
     pyplot.bar([i for i in range(len(fs.scores_))], fs.scores_)
     return pyplot.show()
 
