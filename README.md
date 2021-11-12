@@ -29,3 +29,10 @@ Statistical Methods
 ------------
 * Hypothesis testing - Chi-square, Kruskal
 * Box Cox Transform
+
+Implementation Steps
+------------
+1. K-Mode Clustering
+2. Clustering Distribution Detection
+3. Naive Bayes Implementation
+4. 
