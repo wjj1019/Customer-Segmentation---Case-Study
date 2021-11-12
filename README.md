@@ -9,6 +9,7 @@ Customer Segmentation - Clustering
    https://www.drupal.org/project/issues/admin_menu
    
 ![ScreenShot](https://github.com/wjj1019/Customer-Segmentation---Case-Study/blob/main/Data/Customer-segmentation.png)
+
 Data (Harvard Dataverse)
 ------------
 
