@@ -15,7 +15,7 @@ from sklearn.feature_selection import chi2
 # Feature selection - Use of Chi-squared as method of selection (Dataset consists of Categorical Variables)
 def select_features(X, y):
     fs = SelectKBest(score_func=chi2, k='all')
-    fs.fit_transform(X_train, y_train)
+    fs.fit_transform(X, y)
 
     return fs
 
