@@ -29,7 +29,7 @@ Statistical and Machine Learning Model Used
 
 Methodology
 ------------
-1. Feature Engineering
+1. <b>Feature Engineering<b>
 - Each features with different classes were in mix of numerical and categorical (string), we have unified all the features into numerical representation
 - Label Encoding and pd.cut to seperate large classes (Eg. age -Continuous -> Age Groups)into multipl classes
 
