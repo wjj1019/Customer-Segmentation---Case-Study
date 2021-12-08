@@ -47,3 +47,19 @@ Methodology
 - Naive Bayes (Multinomial) to identify the probability of a customer buying an electric car given all the features
 (Total of 27 Different Cluster combinations computed - Each having different preference towards buy choice)
 
+5. Hypothesis Testing
+- Kruskal Testing was done to evaluate the difference between the distribution
+H0: Two or more population distributions have the same distribution
+Ha: At least one has different distribution
+- Testing was to prove that different clusters are having different distribtion 
+
+Conclustion/Findings
+---------------------
+The project's main purpose was to identify the current sample's charactersitics instead of utilizing the data to predict other sample dataset,
+therefore, evaluation method was not used in this project but further study can be accomplished to construct a model that can be used to predict
+the preference of customers based on their background. 
+
+Findings Indicate
+- People are likely to buy Electric Vehicle based on the price (Highest distribution within 10k - 20k).
+- Individuals with higher budget are more likely to purchase an electric vehicle that are higher in price.
+- Based on the feature selection, Price, Range and Budget was the main contributing factor for 
