@@ -66,4 +66,5 @@ Challenge
 ----------
 The main challenge to this study was the dimension the dataset had (52 columns in total) which is also very difficult to distribute with K-mode clustering
 with 3 total clusters. This is why another logic was applied, seperating into several sections of similar category and perform K-mode for seperation.
-Evaluation 
+Evaluation using accuracy showed low score since the clustering was done with only 3 clusters, different dimensionaliy reduction method may apply to increase the score.
+
