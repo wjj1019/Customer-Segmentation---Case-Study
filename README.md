@@ -55,11 +55,15 @@ Ha: At least one has different distribution
 
 Conclustion/Findings
 ---------------------
-The project's main purpose was to identify the current sample's charactersitics instead of utilizing the data to predict other sample dataset,
-therefore, evaluation method was not used in this project but further study can be accomplished to construct a model that can be used to predict
-the preference of customers based on their background. 
+The project's main purpose was to identify the current sample's charactersitics instead of utilizing the data to predict other sample dataset.
 
 Findings Indicate
 - People are likely to buy Electric Vehicle based on the price (Highest distribution within 10k - 20k).
 - Individuals with higher budget are more likely to purchase an electric vehicle that are higher in price.
-- Based on the feature selection, Price, Range and Budget was the main contributing factor for 
+- Based on the feature selection, Price, Range and Budget was the main contributing factor for buy choice
+
+Challenge 
+----------
+The main challenge to this study was the dimension the dataset had (52 columns in total) which is also very difficult to distribute with K-mode clustering
+with 3 total clusters. This is why another logic was applied, seperating into several sections of similar category and perform K-mode for seperation.
+Evaluation 
